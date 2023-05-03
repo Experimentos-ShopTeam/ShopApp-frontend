@@ -29,13 +29,24 @@ export default {
 </script>
 
 <style scoped>
-.toolbar {
-  display: flex;
+.toolbar {display: flex;
   flex-direction: column;
-  background-color: #f5f5f5;
-  border-radius: 10px;
-  padding: 10px;
-  width: 50px;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px;
+  gap: 10px;
+
+  position: absolute;
+  width: 72px;
+  left: 16px;
+  top: 1.56%;
+  bottom: 1.56%;
+
+  /* UI/White */
+
+  background: #FFFFFF;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 8px;
 }
 .toolbar-top {
   display: flex;

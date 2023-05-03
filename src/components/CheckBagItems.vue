@@ -1,23 +1,27 @@
 <template>
-  <div class="check-bag">
-    <div class="bag-title">
-      <h3>Bag</h3>
-    </div>
-    <div class="bag-items">
-      <!-- Aquí irán los productos añadidos -->
-    </div>
-    <div class="view-bag">
-      <button>
-        <img src="../assets/icono6.png" alt="Icono 6">
-        <span>View Bag</span>
-      </button>
+  <div v-if="showBag" class="bag-items">
+    <div class="check-bag">
+      <div class="bag-title">
+        <h3>Bag</h3>
+      </div>
+      <div class="bag-items">
+        <!-- Aquí irán los productos añadidos -->
+      </div>
+      <div class="view-bag">
+        <button>
+          <img src="../assets/icono6.png" alt="Icono 6">
+          <span>View Bag</span>
+        </button>
+      </div>
     </div>
   </div>
+
 </template>
 
 <script>
 export default {
-  name: "CheckBagItems",
+  name: "CheckBagItems"
+
 };
 </script>
 

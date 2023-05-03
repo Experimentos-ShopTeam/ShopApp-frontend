@@ -1,0 +1,184 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Macbook Pro 13-inch",
+      "description": "Powerful Apple laptop with M1 chip and Retina display.",
+      "image": "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F2801%2FMARKETPLACE%20INTERNACIONAL%2F2DA%20SUBIDA%2FLAPTOPS%20APPLE%2FMCBAIRM1GY16256%2FMCBAIRM1GY16256%201.jpg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=b45ce1509c8eb108e56c28742e35ddea",
+      "price": 1299,
+      "rating": 4.5,
+      "category": "laptop"
+    },
+    {
+      "id": 2,
+      "name": "Dell XPS 13",
+      "description": "Sleek and powerful Dell laptop with Intel Core i7 processor and InfinityEdge display.",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTmpxb6wghn7NtfciHxRn1MF-vkcGLcYUHzZugyYE0rxxfnKHnRg-8MKWZok9kJhZARcheGE8MgXQ&usqp=CAc",
+      "price": 1399,
+      "rating": 4.6,
+      "category": "laptop"
+    },
+    {
+      "id": 3,
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "description": "Durable and lightweight Lenovo laptop with 11th Gen Intel Core i7 processor.",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS-IywgqOPoN8Iegmk0_30nKsvBdlFOPxiHLwP8c4nSyuDQ2EA0relfmQem0FfW-Ctt8oqNqzoewm8&usqp=CAc",
+      "price": 1699,
+      "rating": 4.4,
+      "category": "laptop"
+    },
+    {
+      "id": 4,
+      "name": "HP Spectre x360",
+      "description": "Stylish and versatile HP laptop with 11th Gen Intel Core i7 processor and 4K OLED display.",
+      "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRpgLthurTrBTc_0Y4FCfmxHt8iS1ULiccyEqtwPY6AQNPK5rFLbQq4wpHPMc2y0QzAeiC5PaqAAtE&usqp=CAc",
+      "price": 1599,
+      "rating": 4.7,
+      "category": "laptop"
+    },
+    {
+      "id": 5,
+      "name": "ASUS ZenBook Pro Duo",
+      "description": "Powerful ASUS laptop with 10th Gen Intel Core i9 processor and dual 4K displays.",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT9EV5yaAxuzeQw1vmBizbtUNhvYMGFkAJiJpsBwOJ89JhGwvL59kteMxkj01QrJ1UbE4zKAHfy&usqp=CAc",
+      "price": 2499,
+      "rating": 4.8,
+      "category": "laptop"
+    },
+    {
+      "id": 6,
+      "name": "Microsoft Surface Laptop 4",
+      "description": "Sleek and lightweight Microsoft laptop with AMD Ryzen processor and touch screen.",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRehfdCgkenIarVdqsqpnIiqMkF9jHQfsTmeykOL1y7qHvlhHpDgaAeZZ2nWdInNmi44BDkWj7Mkw&usqp=CAc",
+      "price": 1299,
+      "rating": 4.5,
+      "category": "laptop"
+    },
+    {
+      "id": 7,
+      "name": "Acer Swift 5",
+      "description": "Lightweight and portable Acer laptop with 11th Gen Intel Core i7 processor.",
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQdkXZYHo5h3EbigVcl9HYIOl3hboI5F3f7JphDtWTy-iyHlle8jM5ZtvMx2mHq5WrBh-hVJo-y5A&usqp=CAc",
+      "price": 999,
+      "rating": 4.3,
+      "category": "laptop"
+    },
+    {
+      "id": 8,
+      "name": "Razer Blade Stealth 13",
+      "description": "Gaming laptop with 11th Gen Intel Core i7 processor and NVIDIA GeForce GTX 1650 Ti graphics.",
+      "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTmpxb6wghn7NtfciHxRn1MF-vkcGLcYUHzZugyYE0rxxfnKHnRg-8MKWZok9kJhZARcheGE8MgXQ&usqp=CAc",
+      "price": 1799,
+      "rating": 4.7,
+      "category": "laptop"
+    },
+    {
+      "id": 9,
+      "name": "Macbook Pro 13-inch",
+      "description": "Powerful Apple laptop with M1 chip and Retina display.",
+      "image": "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F2801%2FMARKETPLACE%20INTERNACIONAL%2F2DA%20SUBIDA%2FLAPTOPS%20APPLE%2FMCBAIRM1GY16256%2FMCBAIRM1GY16256%201.jpg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=b45ce1509c8eb108e56c28742e35ddea",
+      "price": 1299,
+      "rating": 4.5,
+      "category": "laptop"
+    },
+    {
+      "id": 10,
+      "name": "Macbook Pro 13-inch",
+      "description": "Powerful Apple laptop with M1 chip and Retina display.",
+      "image": "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F2801%2FMARKETPLACE%20INTERNACIONAL%2F2DA%20SUBIDA%2FLAPTOPS%20APPLE%2FMCBAIRM1GY16256%2FMCBAIRM1GY16256%201.jpg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=b45ce1509c8eb108e56c28742e35ddea",
+      "price": 1299,
+      "rating": 4.5,
+      "category": "laptop"
+    },
+    {
+      "id": 11,
+      "name": "Macbook Pro 13-inch",
+      "description": "Powerful Apple laptop with M1 chip and Retina display.",
+      "image": "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F2801%2FMARKETPLACE%20INTERNACIONAL%2F2DA%20SUBIDA%2FLAPTOPS%20APPLE%2FMCBAIRM1GY16256%2FMCBAIRM1GY16256%201.jpg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=b45ce1509c8eb108e56c28742e35ddea",
+      "price": 1299,
+      "rating": 4.5,
+      "category": "laptop"
+    },
+    {
+      "id": 12,
+      "name": "Macbook Pro 13-inch",
+      "description": "Powerful Apple laptop with M1 chip and Retina display.",
+      "image": "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F2801%2FMARKETPLACE%20INTERNACIONAL%2F2DA%20SUBIDA%2FLAPTOPS%20APPLE%2FMCBAIRM1GY16256%2FMCBAIRM1GY16256%201.jpg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=b45ce1509c8eb108e56c28742e35ddea",
+      "price": 1299,
+      "rating": 4.5,
+      "category": "laptop"
+    },
+    {
+      "id": 13,
+      "name": "Macbook Pro 13-inch",
+      "description": "Powerful Apple laptop with M1 chip and Retina display.",
+      "image": "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F2801%2FMARKETPLACE%20INTERNACIONAL%2F2DA%20SUBIDA%2FLAPTOPS%20APPLE%2FMCBAIRM1GY16256%2FMCBAIRM1GY16256%201.jpg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=b45ce1509c8eb108e56c28742e35ddea",
+      "price": 1299,
+      "rating": 4.5,
+      "category": "laptop"
+    },
+    {
+      "id": 14,
+      "name": "Macbook Pro 13-inch",
+      "description": "Powerful Apple laptop with M1 chip and Retina display.",
+      "image": "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F2801%2FMARKETPLACE%20INTERNACIONAL%2F2DA%20SUBIDA%2FLAPTOPS%20APPLE%2FMCBAIRM1GY16256%2FMCBAIRM1GY16256%201.jpg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=b45ce1509c8eb108e56c28742e35ddea",
+      "price": 1299,
+      "rating": 4.5,
+      "category": "laptop"
+    },
+    {
+      "id": 15,
+      "name": "Macbook Pro 13-inch",
+      "description": "Powerful Apple laptop with M1 chip and Retina display.",
+      "image": "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F2801%2FMARKETPLACE%20INTERNACIONAL%2F2DA%20SUBIDA%2FLAPTOPS%20APPLE%2FMCBAIRM1GY16256%2FMCBAIRM1GY16256%201.jpg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=b45ce1509c8eb108e56c28742e35ddea",
+      "price": 1299,
+      "rating": 4.5,
+      "category": "laptop"
+    },
+    {
+      "id": 16,
+      "name": "Macbook Pro 13-inch",
+      "description": "Powerful Apple laptop with M1 chip and Retina display.",
+      "image": "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F2801%2FMARKETPLACE%20INTERNACIONAL%2F2DA%20SUBIDA%2FLAPTOPS%20APPLE%2FMCBAIRM1GY16256%2FMCBAIRM1GY16256%201.jpg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=b45ce1509c8eb108e56c28742e35ddea",
+      "price": 1299,
+      "rating": 4.5,
+      "category": "laptop"
+    },
+    {
+      "id": 17,
+      "name": "Macbook Pro 13-inch",
+      "description": "Powerful Apple laptop with M1 chip and Retina display.",
+      "image": "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F2801%2FMARKETPLACE%20INTERNACIONAL%2F2DA%20SUBIDA%2FLAPTOPS%20APPLE%2FMCBAIRM1GY16256%2FMCBAIRM1GY16256%201.jpg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=b45ce1509c8eb108e56c28742e35ddea",
+      "price": 1299,
+      "rating": 4.5,
+      "category": "laptop"
+    },
+    {
+      "id": 18,
+      "name": "Macbook Pro 13-inch",
+      "description": "Powerful Apple laptop with M1 chip and Retina display.",
+      "image": "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F2801%2FMARKETPLACE%20INTERNACIONAL%2F2DA%20SUBIDA%2FLAPTOPS%20APPLE%2FMCBAIRM1GY16256%2FMCBAIRM1GY16256%201.jpg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=b45ce1509c8eb108e56c28742e35ddea",
+      "price": 1299,
+      "rating": 4.5,
+      "category": "laptop"
+    },
+    {
+      "id": 19,
+      "name": "Macbook Pro 13-inch",
+      "description": "Powerful Apple laptop with M1 chip and Retina display.",
+      "image": "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F2801%2FMARKETPLACE%20INTERNACIONAL%2F2DA%20SUBIDA%2FLAPTOPS%20APPLE%2FMCBAIRM1GY16256%2FMCBAIRM1GY16256%201.jpg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=b45ce1509c8eb108e56c28742e35ddea",
+      "price": 1299,
+      "rating": 4.5,
+      "category": "laptop"
+    },
+    {
+      "id": 20,
+      "name": "Macbook Pro 13-inch",
+      "description": "Powerful Apple laptop with M1 chip and Retina display.",
+      "image": "https://ripleype.imgix.net/https%3A%2F%2Fdpq25p1ucac70.cloudfront.net%2Fseller-place-files%2Fmrkl-files%2F2801%2FMARKETPLACE%20INTERNACIONAL%2F2DA%20SUBIDA%2FLAPTOPS%20APPLE%2FMCBAIRM1GY16256%2FMCBAIRM1GY16256%201.jpg?w=750&h=555&ch=Width&auto=format&cs=strip&bg=FFFFFF&q=60&trimcolor=FFFFFF&trim=color&fit=fillmax&ixlib=js-1.1.0&s=b45ce1509c8eb108e56c28742e35ddea",
+      "price": 1299,
+      "rating": 4.5,
+      "category": "laptop"
+    }
+  ]
+}
