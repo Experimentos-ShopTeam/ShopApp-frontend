@@ -1,7 +1,9 @@
 <script setup>
 import CheckBagItems from "./components/CheckBagItems.vue";
+import ToolbarHome from "@/components/ToolbarHome.vue";
+
 </script>
 
 <template>
-<CheckBagItems />  
+<check-bag-items/>
 </template>
