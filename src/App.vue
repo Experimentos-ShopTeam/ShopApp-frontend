@@ -1,12 +1,17 @@
 <script setup>
-import CheckBagItems from "./components/CheckBagItems.vue";
+import { RouterLink, RouterView } from "vue-router";
+import Bag from "./components/Bag.vue";
 import ToolbarHome from "@/components/ToolbarHome.vue";
-import Dashboard from "@/components/Dashboard.vue";
-import HomeShopTeam from "@/components/HomeShopTeam.vue";
-import Product from "@/components/Product.vue";
-
 </script>
 
 <template>
-<HomeShopTeam/>
+  <div class="grid grid-cols-6 bg-[#ededed]">
+    <ToolbarHome />
+
+    <RouterView class="col-span-4" />
+
+    <div class="flex justify-end">
+      <Bag />
+    </div>
+  </div>
 </template>
