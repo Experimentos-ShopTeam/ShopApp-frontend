@@ -35,12 +35,11 @@ export default {
   align-items: center;
   padding: 8px;
   gap: 10px;
-
-  position: absolute;
+  height: 90%;
+  position: relative;
   width: 72px;
-  left: 16px;
-  top: 1.56%;
-  bottom: 1.56%;
+  margin-left:20px;
+  
 
   /* UI/White */
 
